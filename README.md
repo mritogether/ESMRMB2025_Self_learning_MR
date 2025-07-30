@@ -1,4 +1,4 @@
-# ESMRMB2025_Self_learning_MR
+# ESMRMB 2025 Self-learning MR
 Repository for the 2025 Member Session on Self Learning MR
 
 ### Program for first hour: 4 talks
