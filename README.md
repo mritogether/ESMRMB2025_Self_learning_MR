@@ -10,14 +10,12 @@ Repository for the 2025 Member Session on Self Learning MR
 
 ### Program for second half an hour: 4-6 demos of open source “self-learning” tools
 
-- **Tony Stoecker or student – EPG+vfa, NNLS qT1/T1**
+- **Svenja Niesen  "Optimize it! EPGs in Python"** (4 min)
 
   Paper: Code:
-- **Shaihan Malik or student: Open Source DSC/EPG?**   (4 min):
   
-  (DSC or the mprage/flaws would be cool: https://github.com/siladokumaci/MP2RAGE_EPG_simulations) 
 - **Jonathan Endes – Pulseq-zero** (4 min):
-
+  
   Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  (confirmed)
 - **Dario Bosch – fast pTX** (4 min)
 
