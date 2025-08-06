@@ -29,3 +29,9 @@ Repository for the 2025 Member Session on Self Learning MR
 
   Paper:  https://doi.org/10.1038/s41596-025-01152-w  Code:  https://github.com/momentum-laboratory/molecular-mrf  (confirmed)
 
+
+
+ ## Further self-learning MRI reseoruces
+
+-  Cramer Rao Bounds (CRBs) for MRI sequences   https://github.com/ecat/adbs
+
