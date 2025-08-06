@@ -31,7 +31,7 @@ Repository for the 2025 Member Session on Self Learning MR
 
 
 
- ## Further self-learning MRI ressources
+ ## Further self-learning MRI resources
 
 -  Cramer Rao Bounds (CRBs) for MRI sequences   https://github.com/ecat/adbs
 
