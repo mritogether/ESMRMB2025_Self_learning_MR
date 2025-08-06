@@ -10,17 +10,22 @@ Repository for the 2025 Member Session on Self Learning MR
 
 ### Program for second half an hour: 4-6 demos of open source “self-learning” tools
 
-- **Svenja Niesen  "Optimize it! EPGs in Python"** (4 min)
+- **Svenja Niesen  "Optimize it! EPGs in Python"** (5 min)
 
   Paper: Code:
   
-- **Jonathan Endes – Pulseq-zero** (4 min):
+- **Jonathan Endes – Pulseq-zero** (5 min):
   
   Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  (confirmed)
-- **Dario Bosch – fast pTX** (4 min)
+- **Dario Bosch – fast pTX** (5 min)
 
   Code: https://github.com/dabosch/FastPtx  (confirmed)
-- **Or Perlman or student: – CEST MRF for everyone** (4 min)
+  
+- **Jannik Stebani/Martin Blaimer - Optimization of quantification using Cramer-Rao Lower bound** (5 min)
+
+   Paper: Code:
+  
+- **Or Perlman or student: – CEST MRF for everyone** (5 min)
 
   Paper:  https://doi.org/10.1038/s41596-025-01152-w  Code:  https://github.com/momentum-laboratory/molecular-mrf  (confirmed)
 
