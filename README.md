@@ -8,7 +8,7 @@ Repository for the 2025 Member Session on Self Learning MR
 - Moritz Zaiss, FAU, Erlangen: “End-to-end learning with MR-zero” (15 min) (confirmed)
 - Or Perlman, Tel Aviv University, “Towards Automatically Optimized Multi-Metabolite CEST Fingerprinting – When a Computational Graph Meets Proton Exchange" (15 min) (confirmed)
 
-### Program for second half an hour: 4-6 demos of open source “self-learning” tools
+### Program for the second half an hour: 4-6 demos of open source “self-learning” tools
 
 - **Svenja Niesen  "Optimize it! EPGs in Python"** (5 min)
 
@@ -25,7 +25,7 @@ Repository for the 2025 Member Session on Self Learning MR
 
    Paper: Code:
   
-- **Or Perlman or student: – CEST MRF for everyone** (5 min)
+- **Or Perlman/Nikita Vladimirov: – CEST MRF for everyone** (5 min)
 
   Paper:  https://doi.org/10.1038/s41596-025-01152-w  Code:  https://github.com/momentum-laboratory/molecular-mrf  (confirmed)
 
