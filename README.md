@@ -1,6 +1,6 @@
 # ESMRMB 2025 Self-learning MR
 Repository for the 2025 Member Session on "Self Learning MR"
-**Saturday 11.9. 11-12:30 in Salle 76**
+**Saturday Oct 11  11-12:30 in Salle 76**
 https://esmrmb2025.org/scientific-programme/
 
 ### Program for first hour: 4 talks
@@ -19,6 +19,7 @@ https://esmrmb2025.org/scientific-programme/
 - **Jonathan Endes – Pulseq-zero** (5 min):
   
   Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  (confirmed)
+  
 - **Dario Bosch – fast pTX** (5 min)
 
   Code: https://github.com/dabosch/FastPtx  (confirmed)
