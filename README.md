@@ -1,5 +1,7 @@
 # ESMRMB 2025 Self-learning MR
-Repository for the 2025 Member Session on Self Learning MR
+Repository for the 2025 Member Session on "Self Learning MR"
+**Saturday 11.9. 11-12:30 in Salle 76**
+https://esmrmb2025.org/scientific-programme/
 
 ### Program for first hour: 4 talks
 - Welcome and Definition of the session (Focus on Acquisition, beyond k-space patterns and recon) (Shaihan and Moritz) 2 mins
