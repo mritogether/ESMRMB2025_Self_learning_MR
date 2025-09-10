@@ -19,6 +19,10 @@ https://esmrmb2025.org/scientific-programme/
 - **Jonathan Endes – Pulseq-zero** (5 min):
   
   Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  (confirmed)
+
+  - **Felix Glang – Trajectory Optimization** (5 min):
+  
+  Paper: https://archive.ismrm.org/2021/4200.html  Code:      (confirmed)
   
 - **Dario Bosch – fast pTX** (5 min)
 
