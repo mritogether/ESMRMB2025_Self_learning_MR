@@ -18,7 +18,7 @@ https://esmrmb2025.org/scientific-programme/
   
 - **Jonathan Endes – Pulseq-zero** (5 min):
   
-  Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  (confirmed)
+  Paper: https://github.com/pulseq-frame/pulseq-zero/blob/main/abstract/abstract.md Code: https://github.com/pulseq-frame/pulseq-zero  DSC + DESC (confirmed)
 
  - **Felix Glang – Trajectory Optimization** (5 min):
   
@@ -30,9 +30,9 @@ https://esmrmb2025.org/scientific-programme/
   
 - **Jannik Stebani/Martin Blaimer - Optimization of quantification using Cramer-Rao Lower bound** (5 min)
 
-   Paper: Code:
+   Paper: Code:https://github.com/HarmonizedMRI/OpenMRF
   
-- **Or Perlman/Nikita Vladimirov: – CEST MRF for everyone** (5 min)
+- **Nikita Vladimirov: – CEST MRF for everyone** (5 min)
 
   Paper:  https://doi.org/10.1038/s41596-025-01152-w  Code:  https://github.com/momentum-laboratory/molecular-mrf  (confirmed)
 
