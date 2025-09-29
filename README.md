@@ -26,7 +26,7 @@ https://esmrmb2025.org/scientific-programme/
   
 - **Dario Bosch – fast pTX** (5 min)
 
-  Code: https://github.com/dabosch/FastPtx  (confirmed)
+  Paper: https://doi.org/10.1007/s10334-023-01134-7 Code: https://github.com/dabosch/FastPtx  (confirmed)
   
 - **Jannik Stebani/Martin Blaimer - Optimization of quantification using Cramer-Rao Lower bound** (5 min)
 
