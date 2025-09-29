@@ -14,7 +14,7 @@ https://esmrmb2025.org/scientific-programme/
 
 - **Svenja Niesen  "Optimize it! EPGs in Python"** (5 min)
 
-  Paper: Code:
+  Paper: Code:https://github.com/mrphysics-bonn/epg-tutorial 
   
 - **Jonathan Endes – Pulseq-zero** (5 min):
   
