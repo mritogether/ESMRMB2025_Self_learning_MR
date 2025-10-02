@@ -39,4 +39,5 @@ https://esmrmb2025.org/scientific-programme/
    Paper: Code:https://github.com/HarmonizedMRI/OpenMRF
 
 -  Cramer Rao Bounds (CRBs) for MRI sequences   https://github.com/ecat/adbs
+-  Optimization-for-non-ideal-gradients.  https://github.com/mriphysics/Optimization-for-non-ideal-gradients.
 
