@@ -35,7 +35,10 @@ https://esmrmb2025.org/scientific-programme/
 
  ## Further self-learning MRI resources
 
- - **Jannik Stebani/Martin Blaimer - Optimization of quantification using Cramer-Rao Lower bound** (5 min)
+ - **Jannik Stebani/Martin Blaimer - Optimization of quantification using Cramer-Rao Lower bound**
+ - https://github.com/stebix/esmrmb2025-tutorial 
+ - Demo Recording: https://youtu.be/va5FrPT_ChA?si=NLkWVqEZe7FcAWHX
+
 
    Paper: Code:https://github.com/HarmonizedMRI/OpenMRF
 
