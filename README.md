@@ -28,6 +28,7 @@ https://esmrmb2025.org/scientific-programme/
 - **Dario Bosch – fast pTX** (5 min)
 
   Paper: https://doi.org/10.1007/s10334-023-01134-7 Code: https://github.com/dabosch/FastPtx 
+  Hands-On Notebook [in Colab](https://colab.research.google.com/github/dabosch/FastPtx/blob/main/Colab_Demo.ipynb)
    
 - **Nikita Vladimirov: – CEST MRF for everyone** (5 min)
 
