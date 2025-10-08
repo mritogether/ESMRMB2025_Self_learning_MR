@@ -25,7 +25,7 @@ https://esmrmb2025.org/scientific-programme/
     Paper: https://archive.ismrm.org/2021/4200.html and https://dx.doi.org/10.1002/mrm.29645 \
     Code: https://github.com/fglang/traj_learning_demo    
   
-- **Dario Bosch – fast pTX** (5 min)
+- **Dario Bosch – FastPtx** (5 min)
 
   Paper: https://doi.org/10.1007/s10334-023-01134-7 Code: https://github.com/dabosch/FastPtx 
   Hands-On Notebook [in Colab](https://colab.research.google.com/github/dabosch/FastPtx/blob/main/Colab_Demo.ipynb)
